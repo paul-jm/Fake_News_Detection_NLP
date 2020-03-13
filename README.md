@@ -8,5 +8,5 @@ Fake News Detection
 The Challenge 
 =========================================
 
-The task at hand is to predict whether or not a given article is a piece of 'real' news or 'fake' news. . 
+The task at hand is to predict whether or not a given article is a piece of 'real' news or 'fake' news.
 The analysis was carried out entirely in python. 
